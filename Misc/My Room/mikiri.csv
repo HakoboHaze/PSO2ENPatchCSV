@@ -5,7 +5,7 @@ MikiriSuccess#0,"""負ケマシタ......。<br>難易度：$(0)<br>貴方のタ�
 MikiriFailed#0,"""素晴ラシク鈍イナ君ハ！<br>難易度：$(0)<br>マシンのタイム：$(2).$(1)秒"""
 MikiriBreakaway#0,"""/moya オ手ツキダヨ。<br>『今ダ押セ！』ガ出テカラ<br>押シテネ！"""
 MikiriRecord#0,"""現在の最高タイム：$(2).$(0)秒<br>現在の記録保持者：<br>$(1)"""
-MikiriRecordNone#0,"""ハイスコアハ現在記録サレテイマセン。"""
+MikiriRecordNone#0,"""Aún no se ha establecido un High Score"""
 MikiriEasy#0,"""Modo normal"""
 MikiriNormal#0,"""Modo difícil"""
 MikiriHard#0,"""Modo muy difícil"""
